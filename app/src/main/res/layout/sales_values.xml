@@ -81,7 +81,7 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal">
             <com.oltranz.pf.n_payfuel_engen.utilities.views.MyLabel
-                android:id="@+id/label"
+                android:id="@+id/topLabel"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="6dp"

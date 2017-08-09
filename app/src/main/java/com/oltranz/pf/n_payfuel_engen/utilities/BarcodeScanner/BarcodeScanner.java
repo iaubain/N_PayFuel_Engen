@@ -4,6 +4,7 @@ import android.annotation.SuppressLint;
 import android.content.Context;
 import android.os.Handler;
 import android.os.Message;
+import android.os.SystemClock;
 import android.util.Log;
 
 import com.oltranz.pf.n_payfuel_engen.utilities.sound.AudioTrackManager;
@@ -105,6 +106,7 @@ public class BarcodeScanner {
 
             Log.i(TAG , "scan begin");
             try {
+                SystemClock.sleep(800);
                 barcodeReader.delay(50); //delay time Nx100mm MAX：100
                 barcodeReader.setAimingPattern(2);
                 barcodeReader.setIllumination(1);

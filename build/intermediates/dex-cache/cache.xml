@@ -57,15 +57,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_35a70d4598507b7c61fc00eae326c93892098394.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Hp\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -84,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_35a70d4598507b7c61fc00eae326c93892098394.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -93,12 +93,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_182b34e9ecf8cd012264b4d2b6fb155bedbbad55.jar" />
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.2.0_b0d79701ed0af0590462e56b1ca072166dcc7933.jar" />
     </item>
     <item
         is-multidex="false"
@@ -108,6 +108,15 @@
         revision="24.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_86ee99d52d34c37fd238988bb34838aa6b983ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_182b34e9ecf8cd012264b4d2b6fb155bedbbad55.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,21 +138,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jar="C:\Users\Hp\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="cce0823396aa693798f8882e64213b1772032b09">
-        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\core-3.2.1_eae1dfdc1640001b3739e0bd47278dfc7f0ba851.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Hp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jar="C:\Users\Hp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.1.0\7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5\converter-scalars-2.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_dc50824e5218d6c9799d4d12a09a77107e281b27.jar" />
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\converter-scalars-2.1.0_e7ecadbfca34229369843fb899acca27b735d3bc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,6 +165,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Hp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_dc50824e5218d6c9799d4d12a09a77107e281b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Hp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-jackson\2.1.0\ef33476a62d9c62dfca6b6c9e086f2e3343a96f4\converter-jackson-2.1.0.jar"
         jumboMode="false"
         optimize="true"
@@ -165,21 +183,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
-        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.4_7c6c6679271483c95bde52efb4ff03b18e09efa6.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.github.delight-im\Android-AdvancedWebView\v3.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="18e4d2146490b76b3282f1949ed6ffd052a0fc23">
         <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.github.delight-im-Android-AdvancedWebView-v3.0.0_c4abc4c5cf4295985a0dee2b32faa294e35afabb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\exploded-aar\com.github.satyan\sugar\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.4_7c6c6679271483c95bde52efb4ff03b18e09efa6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -198,6 +216,15 @@
         revision="24.0.2"
         sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
         <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\jackson-databind-2.7.2_98c3e5befafce68dce2abcc4ecae9b6c2f215d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hp\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Hp\Documents\AndroidStudioProject\N_PayFuel_Engen\app\build\intermediates\pre-dexed\debug\guava-18.0_b41fdd085e067f838e519b7ad335bd626a83361f.jar" />
     </item>
     <item
         is-multidex="false"

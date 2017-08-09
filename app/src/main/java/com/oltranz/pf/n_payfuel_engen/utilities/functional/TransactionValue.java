@@ -73,7 +73,7 @@ public class TransactionValue {
             boxTitle.setText("Amount or Quantity");
 
             //setting box content
-            MyLabel label = (MyLabel) mainDialog.findViewById(R.id.label);
+            MyLabel label = (MyLabel) mainDialog.findViewById(R.id.topLabel);
             MyLabel labelValue = (MyLabel) mainDialog.findViewById(R.id.labelValue);
             final MyLabel more = (MyLabel) mainDialog.findViewById(R.id.more);
             final MyLabel qty = (MyLabel) mainDialog.findViewById(R.id.qty);
