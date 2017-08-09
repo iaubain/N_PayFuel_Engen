@@ -11,19 +11,17 @@ import android.os.Build;
 import android.util.Log;
 
 public class AudioTrackManager {
-    public static final int RATE=44100;
-    public static final float MAXVOLUME=100f;
-    public static final int LEFT=1;
-    public static final int RIGHT=2;
-    public static final int DOUBLE=3;
+    private static final int RATE = 44100;
+    private static final float MAXVOLUME = 100f;
+    private static final int LEFT = 1;
+    private static final int RIGHT = 2;
+    private static final int DOUBLE = 3;
 
-    AudioTrack audioTrack;
-    float volume;
-    int channel;
-    int length;
-    int waveLen;
-    int Hz;
-    byte[] wave;
+    private AudioTrack audioTrack;
+    private float volume;
+    private int channel;
+    private int length;
+    private byte[] wave;
 
     public AudioTrackManager(){
         wave=new byte[RATE];
@@ -37,9 +35,9 @@ public class AudioTrackManager {
 
         stop();
         if(rate>0){
-            Hz=rate;
-            waveLen = RATE / Hz;
-            length = waveLen * Hz;
+            int hz = rate;
+            int waveLen = RATE / hz;
+            length = waveLen * hz;
             audioTrack=new AudioTrack(AudioManager.STREAM_MUSIC, RATE,
                     AudioFormat.CHANNEL_CONFIGURATION_STEREO, // CHANNEL_CONFIGURATION_MONO,
                     AudioFormat.ENCODING_PCM_8BIT, length, AudioTrack.MODE_STREAM);
